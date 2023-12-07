@@ -1,8 +1,15 @@
-<img width="100%" height="300px" margin="0 auto" src="https://i.postimg.cc/s2XrtgtX/ezgif-com-crop.gif" />
 
-<h1 align="center">Hi 👋, I'm Sabbir Hosen</h1>
-<h3 align="center">Front end Developer</h3>
 
+<img width="100%" height="250vw" margin="0 auto" src="https://i.postimg.cc/s2XrtgtX/ezgif-com-crop.gif" />
+
+<h1 align="center">Hi <img mix-blend-mode="multiply" width="35px" height="35px" src="https://c.tenor.com/CU-PX1m0egYAAAAC/tenor.gif" /> , I'm Sabbir Hosen</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5020&pause=991&color=FFFFFF&random=false&width=559&lines=A+Passionate+Web+Developer+From+Bangladesh)](https://git.io/typing-svg)
+
+I find joy in exploring diverse technologies and frameworks, and I particularly appreciate working with React.
+
+<br/>
+<br/>
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -46,3 +53,15 @@
 
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+
+<br />
+<br />
+<br />
+
+<h3 align="left"> Connect With Me:</h3>
+<p align="left">
+
+[<img src='https://img.icons8.com/?size=512&id=52539&format=png' alt='github' background-color='blue' height='40'>](https://github.com/tsssabbir)
+[<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tssabbir/) 
+[<img src='https://img.icons8.com/?size=512&id=118501&format=png' alt='facebook' height='40'>](https://www.facebook.com/Btssabbir.fb) 
+
