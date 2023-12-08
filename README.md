@@ -61,7 +61,7 @@ I find joy in exploring diverse technologies and frameworks, and I particularly 
 <h3 align="left"> Connect With Me:</h3>
 <p align="left">
 
-[<img src='https://img.icons8.com/?size=512&id=52539&format=png' alt='github' background-color='blue' height='40'>](https://github.com/tsssabbir)
+[<img src='https://img.icons8.com/?size=512&id=52539&format=png' alt='github' background-color='blue' height='40'>](https://github.com/tssabbir)
 [<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tssabbir/) 
-[<img src='https://img.icons8.com/?size=512&id=118501&format=png' alt='facebook' height='40'>](https://www.facebook.com/Btssabbir.fb) 
+[<img src='https://img.icons8.com/?size=512&id=118501&format=png' alt='facebook' height='40'>](https://www.facebook.com/tssabbir.fb) 
 
