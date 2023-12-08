@@ -42,6 +42,7 @@ I find joy in exploring diverse technologies and frameworks, and I particularly 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+<img src="https://redux-toolkit.js.org/img/redux.svg" alt="reactnative" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 
