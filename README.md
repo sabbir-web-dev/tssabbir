@@ -58,6 +58,7 @@ I find joy in exploring diverse technologies and frameworks, and I particularly 
 <br />
 <br />
 <br />
+<br />
 
 <h3 align="left"> Connect With Me:</h3>
 <p align="left">
